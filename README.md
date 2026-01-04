@@ -9,6 +9,7 @@
 
 #### Arm tracking device
 School project to create a device to track movement of the arm. The arm position would be then streamed to already existing rehabilitation game. I was using two small arduino based controllers [XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) with 3 axis sensor. I basically created a simple motion capture devices.
+
 [![Motion capture Repo](https://img.shields.io/badge/Project_code-3670A0?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GrunyD/Rehabilitation-Project)
 
 #### Gradio
@@ -18,6 +19,7 @@ Gradio is a python library for easy creation of simple web-based user interface.
 ### Bachelors
 #### Electrical engineering
 ![university](./images/ctu_logo.png) ![programme](./images/ctu_programme_logo.png)
+
 [![Thesis link](https://img.shields.io/badge/Bachelor_Thesis-3670A0?style=for-the-badge&logo=bookstack&logoColor=ffffff)](https://dspace.cvut.cz/entities/publication/d54295a9-f802-4f55-8ad3-db27b6167f68) [![BC Repo](https://img.shields.io/badge/Bachelor_Thesis_Code-3670A0?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GrunyD/Bc_project) [![Transcript](https://img.shields.io/badge/Trasncript_of_records-3670A0?style=for-the-badge&logo=wikibooks&logoColor=ffffff)](./files/Final_transcript_of_records_CVUT.pdf)
 ### Masters
 ![university](./images/dtu_logo.png)
