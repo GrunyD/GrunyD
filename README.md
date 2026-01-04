@@ -1,5 +1,6 @@
 ## 📚 Publications
 [Spatiotemporally distinctive astrocytic and neuronal responses to repetitive intracortical microstimulation](https://www.biorxiv.org/content/10.64898/2026.01.02.697363v1) David Grundfest, Kayeon Kim, Alexandra K.I Yonza, Jeremi Tadeusz Podsiadlo, Lechan Tao, Xiao zhang,  View ORCID ProfileKrzysztof Kucharz, Yan Zhang, Anpan Han, Barbara Lykke Lind, Changsi Cai, Preprint submitted 1/2026
+
 [![Motion capture Repo](https://img.shields.io/badge/Project_code-3670A0?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GrunyD/Neuron_astrocyte_stimulation_analysis)
 
 [Deep learning for tooth filling segmentation](https://www.cspzl.dent.cz/contents/sto/2023/03.pdf), Nagyová V., Grundfest D., Kybic J., Tichý A.,CZECH DENTAL JOURNAL, 3/2023
